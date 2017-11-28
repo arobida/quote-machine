@@ -1,0 +1,19 @@
+body {
+	font-family: 'Spectral SC', serif;
+	background:#333;
+	text-align:center;
+	color:white;
+}
+#quote-container{
+	margin: 0 auto;
+	width:80%;
+	background:#d7ccc8;
+	border-radius:10px;
+}
+#quoteBox{
+	margin:10px;
+	padding:10px;
+}
+#title {
+	color:#2979ff;
+}
